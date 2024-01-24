@@ -28,7 +28,7 @@ st.title('Ask about Saurabh')
 loader = TextLoader('./info.txt')
 documents = loader.load()
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=500)
 #\n\n, \n, ' '
 
 chunks = text_splitter.split_documents(documents)    
