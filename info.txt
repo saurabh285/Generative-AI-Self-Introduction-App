@@ -1,0 +1,32 @@
+
+Childhood:
+Saurabh Singh, born in Patna, Bihar, India, enjoyed a nurturing childhood within a well-educated family. His parents, Kishore and Madhu, both hold master's degrees in their respective fields, setting the stage for a household that valued academic excellence. Saurabh's early years were marked by the influence of his elder sister, Monica, who, having achieved both a bachelor's and master's degree in Economics, served as a source of inspiration. The family's dynamic was further enriched by Saurabh's father's career in the Indian Railways and Metro Railways, leading to a series of relocations across Delhi, Jabalpur, Lucknow, Kolkata, and Chennai.
+
+Schooling:
+Saurabh's educational journey began in his hometown, where he attended the local primary school. His innate interest in academics and early prowess in mathematics and science set the tone for his future educational endeavors. As he progressed through secondary education, his passion for technology and problem-solving became more evident. This foundation laid the groundwork for his pursuit of a Bachelor of Technology in Computer Science and Engineering at SRM Institute of Science and Technology, Kattankulathur, Chennai, where he graduated with a remarkable 84.03% in May 2019.
+
+Travelling:
+Saurabh's childhood was shaped by the nomadic nature of his father's job, leading to extended stays in various cities across India. From the bustling streets of Delhi to the cultural hub of Kolkata, each city left an indelible mark on his upbringing. Chennai became a significant chapter, as it not only housed his undergraduate institution but also became a pivotal location for his academic and professional growth.
+
+Higher Education:
+In January 2022, Saurabh embarked on a new chapter by relocating to Singapore to pursue a Master's in Computing with a specialization in Artificial Intelligence at the National University of Singapore. This decision aligned with his aspirations to delve deeper into the realms of research and gain hands-on experience in the field. Over the course of his master's program, Saurabh showcased his academic prowess, achieving a GPA of 3.17 upon completion in December 2023.
+
+Work Life:
+Saurabh's professional journey began as a Software Development Intern at Webnish Software Solutions Pvt Ltd in June 2017. This experience laid the groundwork for his subsequent roles, including a Software Engineering Intern at Hewlett Packard Enterprise from January to July 2019. His contributions to the StoreEasy Management Console (SEMC) were substantial, with achievements ranging from enhancing software quality to implementing DevOps practices. As a full-time Software Engineer at Hewlett Packard Enterprise from August 2019 to October 2021, Saurabh played a pivotal role in software development, UI design, and the successful adoption of Agile methodologies.
+
+Research/Projects:
+Saurabh's expertise extends into cutting-edge research projects, notably in eye-gaze pattern recognition and face spoofing detection. His dissertation project, conducted from January 2023 to November 2023, resulted in a high-accuracy eye-gaze recognition model that surpassed established models in comparative analyses. In addition, his project on Improved Colour Texture Based Face Spoofing Detection, conducted during his undergraduate years, led to a research paper accepted at the International Journal of Engineering and Advanced Technology in 2019.
+
+Personal Life:
+Apart from his academic and professional pursuits, Saurabh finds support and inspiration in his family. His sister, Monica, serves as a role model, having pursued multiple degrees and establishing a successful career as a consultant in the United States. Saurabh's romantic relationship with Devanshi, who is pursuing a master's degree in Management, adds a personal dimension to his life. The move to Singapore for his master's degree in 2022 reflects Saurabh's commitment to personal and academic growth.
+
+
+Sports and Leadership:
+Saurabh's journey in sports has been a defining aspect of his life, beginning from his early years. His passion for team sports, particularly football, manifested early, with active participation in various tournaments during his school days. Saurabh not only represented his school but also served as the captain, leading the team to numerous victories and earning laurels. This trend continued into his college years at SRM Institute of Science and Technology, where he not only maintained his role as the captain of the college football team but also represented SRM in tournaments across India. His dedication extended to participating in semiprofessional leagues in the city of Chennai, showcasing both his skill on the field and his commitment to the sport.
+
+Saurabh's background in sports significantly influenced his ability to collaborate and lead effectively. This was evident in his natural leadership qualities, which propelled him to the position of the sports convener at his university. As the sports convener, Saurabh held the highest post related to sports affairs within the university. In this role, he oversaw everything from intra-college tournaments to inter-college festivals and tournaments, showcasing his organizational skills and leadership acumen. The experience not only honed his teamwork abilities but also laid the foundation for his success in professional life.
+
+Professional Growth:
+Saurabh's early exposure to leadership and teamwork through sports played a pivotal role in his professional life. Joining Hewlett Packard Enterprise (HPE) as a Software Engineering Intern, he quickly distinguished himself through his ability to work seamlessly with teammates and showcase natural leadership skills. Within a year, Saurabh was entrusted with leadership roles at HPE, where he played a central part in the development of the StoreEasy Management Console (SEMC). His experience as a sports convener translated into effective collaboration within cross-functional teams, implementing Agile methodologies, and optimizing software delivery through CI/CD practices.
+
+Saurabh's journey from leading football teams to steering complex software projects underscores the transferability of skills acquired in sports to the professional arena. His competitive spirit, honed on the football field, continues to drive excellence and innovation in his career. The parallel between his success in sports and his rapid rise in the professional sphere is a testament to the enduring impact of his early sporting endeavors.
