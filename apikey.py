@@ -1,1 +1,2 @@
 apikey = ''
+# add OpenAI key
